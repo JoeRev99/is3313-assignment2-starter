@@ -1,11 +1,11 @@
 class Calculator:
     def add(self, a, b):
         """Adds two numbers and returns the result."""
-        return a-b
+        return a+b
 
     def subtract(self, a, b):
         """Subtracts the second number from the first and returns the result."""
-        return a+b
+        return a-b
 
     def multiply(self, a, b):
         """Multiplies two numbers and returns the result."""
